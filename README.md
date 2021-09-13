@@ -1,5 +1,5 @@
 # MinecraftCloneCPPOpenGL
-A Minecraft clone which I made from scratch over the course of a few days of working on it. In this clone you can explore the plains, desert, snow biomes, and caves, whilst altering the world in any way that you like.
+A Minecraft clone which I made from scratch over the course of a few days of working on it. In this clone you can explore the plains, desert, snow biomes, and caves, whilst altering the world in any way that you like. A showcase for this project can be found here: https://youtu.be/4RPGVNyXpUc 
   
 # Controls:  
   
@@ -27,6 +27,10 @@ Left Click - Break block
 Right Click - Place block  
   
 Escape - Close Program  
+  
+# Altering Textures  
+Textures can be altered in this project by opening the "texAtlas2" image in an image editor, and simply changing the part of the texture atlas which you would like to alter to change how certain blocks look in game.  
+  
   
 # Altering World Generation  
   
